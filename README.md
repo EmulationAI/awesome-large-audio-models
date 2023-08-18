@@ -1,4 +1,3 @@
-# Awesome Large Audio Models
 
 # <p align=center> This repo supplements our [Survey on Large Audio Models].
 
