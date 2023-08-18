@@ -1,2 +1,2 @@
-# Awesome Large Audio Mdels
+# Awesome Large Audio Models
 ## Description Starts from here
