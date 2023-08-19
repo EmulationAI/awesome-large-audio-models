@@ -6,7 +6,7 @@ Authors: [Siddique Latif](https://scholar.google.com/citations?user=Scq5ADcAAAAJ
 
 <hr />
 
-# <p align=center>`Awesome Large Language Models in Audio Processing`</p>
+# <p align=center>`Awesome Large Language Models in Audio Signal Processing`</p>
 
 A curated list of awesome large language models in audio signal processing (**in chronological order**), inspired by the other awesome-initiatives. We intend to regularly update the relevant latest papers and their open-source implementations on this page. 
 
