@@ -17,13 +17,12 @@ A curated list of awesome large language models in audio signal processing (**in
 We strongly encourage the researchers who want to promote their fantastic work to the community to make pull request to update their paper's information!
 
 ## Overview
-- [Related Survey papers](#survey)
-- [Popular Large Audio Models](#Popular Large Audio Models)
-- [Automatic Speech Recognition (ASR)](#Automatic Speech Recognition (ASR))
-- [Neural Speech Synthesis](#Neural Speech Synthesis)
-- [Speech Translation (ST)](#Speech Translation (ST))
-- [Other Speech Applications](#Other Speech Applications)
-- [Large Audio Models in Music ](#Large Audio Models in Music)
+- [Popular Large Audio Models](#popular-large-audio-models)
+- [Automatic Speech Recognition (ASR)](#automatic-speech-recognition-asr)
+- [Neural Speech Synthesis](#neural-speech-synthesis)
+- [Speech Translation (ST)](#speech-translation-st)
+- [Other Speech Applications](#other-speech-applications)
+- [Large Audio Models in Music](#large-audio-models-in-music)
 
 # Survey Papers
   **Transformers in speech processing: A survey.** [2023]. <br>
@@ -35,13 +34,33 @@ We strongly encourage the researchers who want to promote their fantastic work t
 *Mehrish, Ambuj, Navonil Majumder, Rishabh Bharadwaj, Rada Mihalcea, and Soujanya Poria.* <br>
 [[PDF](https://www.sciencedirect.com/science/article/pii/S1566253523001859?casa_token=XZNf2ADbjMUAAAAA:mffQpDwifG19bS_ZdIjKK5BN-IXaZqoJaIpOVZcQIz2v103t3s6mXPvuG708wpIiH3imD4QEFcc)
 
+## Automatic Speech Recognition (ASR)
 
-# Popular Large Audio Models
-# Automatic Speech Recognition (ASR) 
-# Neural Speech Synthesis
-# Speech Translation (ST)
-# Other Speech Applications
-# Large Audio Models in Music 
+Content for the ASR section goes here.
+
+---
+
+## Neural Speech Synthesis
+
+Content for the Neural Speech Synthesis section goes here.
+
+---
+
+## Speech Translation (ST)
+
+Content for the Speech Translation section goes here.
+
+---
+
+## Other Speech Applications
+
+Content for the Other Speech Applications section goes here.
+
+---
+
+## Large Audio Models in Music
+
+Content for the Large Audio Models in Music section goes here.
 
 
 
