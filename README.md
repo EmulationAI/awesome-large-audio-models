@@ -24,3 +24,5 @@ We strongly encourage the researchers who want to promote their fantastic work t
   **Transformers in speech processing: A survey.** [2023]. <br>
 *Siddique Latif, Aun Zaidi, Heriberto Cuayahuitl, Fahad Shamshad, Moazzam Shoukat, and Junaid Qadir.*<br>
 [[PDF](https://arxiv.org/abs/2303.11607)]
+**A review of deep learning techniques for speech processing.** [2023] Information Fusion <br> 
+*Mehrish, Ambuj, Navonil Majumder, Rishabh Bharadwaj, Rada Mihalcea, and Soujanya Poria.* <br>
