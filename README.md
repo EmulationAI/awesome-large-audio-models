@@ -14,13 +14,13 @@ Authors: [Siddique Latif](https://scholar.google.com/citations?user=Scq5ADcAAAAJ
 
 A curated list of awesome large language models in audio signal processing (**in chronological order**), inspired by the other awesome-initiatives. We intend to regularly update the relevant latest papers and their open-source implementations on this page. 
 
-We strongly encourage the researchers that want to promote their fantastic work to the community to make pull request to update their paper's information!
-
+We strongly encourage the researchers who want to promote their fantastic work to the community to make pull request to update their paper's information!
 
 ## Overview
 - [Survey papers](#survey)
 - [Popular Large Audio Models](#Popular Large Audio Models)
 
 - #survey
- "Transformers in speech processing: A survey." [2023]
-Siddique Latif, Aun Zaidi, Heriberto Cuayahuitl, Fahad Shamshad, Moazzam Shoukat, and Junaid Qadir. [[PDF](https://arxiv.org/abs/2303.11607)]
+  **Transformers in speech processing: A survey.** [2023]. <br>
+*Siddique Latif, Aun Zaidi, Heriberto Cuayahuitl, Fahad Shamshad, Moazzam Shoukat, and Junaid Qadir.*<br>
+[[PDF](https://arxiv.org/abs/2303.11607)]
