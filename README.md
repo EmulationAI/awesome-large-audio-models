@@ -19,6 +19,11 @@ We strongly encourage the researchers who want to promote their fantastic work t
 ## Overview
 - [Related Survey papers](#survey)
 - [Popular Large Audio Models](#Popular Large Audio Models)
+- [Automatic Speech Recognition (ASR)](#Automatic Speech Recognition (ASR))
+- [Neural Speech Synthesis](#Neural Speech Synthesis)
+- [Speech Translation (ST)](#Speech Translation (ST))
+- [Other Speech Applications](#Other Speech Applications)
+- [Large Audio Models in Music ](#Large Audio Models in Music)
 
 # Survey Papers
   **Transformers in speech processing: A survey.** [2023]. <br>
@@ -29,4 +34,14 @@ We strongly encourage the researchers who want to promote their fantastic work t
 **A review of deep learning techniques for speech processing.** [2023] Information Fusion <br> 
 *Mehrish, Ambuj, Navonil Majumder, Rishabh Bharadwaj, Rada Mihalcea, and Soujanya Poria.* <br>
 [[PDF](https://www.sciencedirect.com/science/article/pii/S1566253523001859?casa_token=XZNf2ADbjMUAAAAA:mffQpDwifG19bS_ZdIjKK5BN-IXaZqoJaIpOVZcQIz2v103t3s6mXPvuG708wpIiH3imD4QEFcc)
+
+
+# Popular Large Audio Models
+# Automatic Speech Recognition (ASR) 
+# Neural Speech Synthesis
+# Speech Translation (ST)
+# Other Speech Applications
+# Large Audio Models in Music 
+
+
 
