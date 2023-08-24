@@ -17,7 +17,7 @@ A curated list of awesome large language models in audio signal processing (**in
 We strongly encourage the researchers who want to promote their fantastic work to the community to make pull request to update their paper's information!
 
 ## Overview
-- [Survey papers](#survey)
+- [Related Survey papers](#survey)
 - [Popular Large Audio Models](#Popular Large Audio Models)
 
 # Survey Papers
