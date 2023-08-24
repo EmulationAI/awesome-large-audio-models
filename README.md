@@ -1,5 +1,5 @@
 
-# <p align=center> This repo supplements our [Survey on Large Audio Models].
+# <p align=center> This repo supplements our survey paper [Sparks of Large Audio Models: A Survey and Outlook].
 
 Authors: [Siddique Latif](https://scholar.google.com/citations?user=Scq5ADcAAAAJ&hl=en), [Moazzam Shoukat](https://scholar.google.com/citations?user=uU550yYAAAAJ&hl=en), [Fahad Shamshad](https://scholar.google.com.pk/citations?user=d7QL4wkAAAAJ&hl=en), [Muhammad Usama](https://scholar.google.com/citations?user=unGWVYMAAAAJ&hl=en), [Heriberto Cuayahuitl](https://scholar.google.com/citations?user=zDlQNDgAAAAJ&hl=en), [Bjorn  Schuller](https://scholar.google.com/citations?user=TxKNCSoAAAAJ&hl=en).
 </p>
