@@ -22,3 +22,5 @@ We strongly encourage the researchers that want to promote their fantastic work 
 - [Popular Large Audio Models](#Popular Large Audio Models)
 
 - #survey
+ "Transformers in speech processing: A survey." [2023]
+Siddique Latif, Aun Zaidi, Heriberto Cuayahuitl, Fahad Shamshad, Moazzam Shoukat, and Junaid Qadir. [[PDF](https://arxiv.org/abs/2303.11607)]
