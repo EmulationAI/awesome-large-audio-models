@@ -15,3 +15,10 @@ Authors: [Siddique Latif](https://scholar.google.com/citations?user=Scq5ADcAAAAJ
 A curated list of awesome large language models in audio signal processing (**in chronological order**), inspired by the other awesome-initiatives. We intend to regularly update the relevant latest papers and their open-source implementations on this page. 
 
 We strongly encourage the researchers that want to promote their fantastic work to the community to make pull request to update their paper's information!
+
+
+## Overview
+- [Survey papers](#survey)
+- [Popular Large Audio Models](#Popular Large Audio Models)
+
+- #survey
