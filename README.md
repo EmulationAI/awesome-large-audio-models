@@ -93,7 +93,17 @@ A curated list of awesome large AI models in audio signal processing, inspired b
 
 ## Large Audio Models in Music
 
-Content for the Large Audio Models in the Music section goes here.
+**VampNet: Music Generation via Masked Acoustic Token Modeling** [2023].<br>*Hugo Flores Garcia, Prem Seetharaman, Rithesh Kumar, Bryan Pardo*<br>[[PDF](https://arxiv.org/abs/2307.04686)]<br>
+**Text-to-Audio Generation using Instruction-Tuned LLM and Latent Diffusion Model** [2023].<br>*Deepanway Ghosal, Navonil Majumder, Ambuj Mehrish, Soujanya Poria*<br>[[PDF](https://arxiv.org/abs/2304.13731)]<br>
+**WavJourney: Compositional Audio Creation with Large Language Models** [2023].<br>*Xubo Liu, Zhongkai Zhu, Haohe Liu, Yi Yuan, Meng Cui, Qiushi Huang, Jinhua Liang, Yin Cao, Qiuqiang Kong, Mark D. Plumbley, Wenwu Wang*<br>[[PDF](https://arxiv.org/abs/2307.14335)]<br>
+**MusicLDM: Enhancing Novelty in Text-to-Music Generation Using Beat-Synchronous Mixup Strategies** [2023].<br>*Ke Chen, Yusong Wu, Haohe Liu, Marianna Nezhurina, Taylor Berg-Kirkpatrick, Shlomo Dubnov*<br>[[PDF](https://arxiv.org/abs/2308.01546)]<br>
+**Exploring the efficacy of pre-trained checkpoints in text-to-music generation task** [2022].<br>*Shangda Wu, Maosong Sun*<br>[[PDF](https://arxiv.org/abs/2211.11216)]<br>
+**SingSong: Generating musical accompaniments from singing** [2023].<br>*Chris Donahue, Antoine Caillon, Adam Roberts, Ethan Manilow, Philippe Esling, Andrea Agostinelli, Mauro Verzetti, Ian Simon, Olivier Pietquin, Neil Zeghidour, Jesse Engel*<br>[[PDF](https://arxiv.org/abs/2301.12662)]<br>
+**LOAF-M2L: Joint Learning of Wording and Formatting for Singable Melody-to-Lyric Generation** [2023].<br>*Longshen Ou, Xichu Ma, Ye Wang*<br>[[PDF](https://arxiv.org/abs/2307.02146)]<br>
+**Efficient Neural Music Generation** [2023].<br>*Max W. Y. Lam, Qiao Tian, Tang Li, Zongyu Yin, Siyuan Feng, Ming Tu, Yuliang Ji, Rui Xia, Mingbo Ma, Xuchen Song, Jitong Chen, Yuping Wang, Yuxuan Wang*<br>[[PDF](https://arxiv.org/abs/2305.15719)]<br>
+**MuseCoco: Generating Symbolic Music from Text** [2023].<br>*Peiling Lu, Xin Xu, Chenfei Kang, Botao Yu, Chengyi Xing, Xu Tan, Jiang Bian*<br>[[PDF](https://arxiv.org/abs/2306.00110)]<br>
+**LaunchpadGPT: Language Model as Music Visualization Designer on Launchpad** [2023].<br>*Siting Xu, Yunlong Tang, Feng Zheng*<br>[[PDF](https://arxiv.org/abs/2307.04827)]<br>
+<br>
 
 
 
