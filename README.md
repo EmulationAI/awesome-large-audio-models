@@ -69,9 +69,13 @@ A curated list of awesome large AI models in audio signal processing, inspired b
 <br>
 ## Neural Speech Synthesis
 
-Content for the Neural Speech Synthesis section goes here.
-
----
+**Investigating the Utility of Surprisal from Large Language Models for Speech Synthesis Prosody** [2023].<br>*Sofoklis Kakouros, Juraj Šimko, Martti Vainio, Antti Suni*<br>[[PDF](https://arxiv.org/abs/2306.09814)]<br>
+**Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers** [2023].<br>*Chengyi Wang, Sanyuan Chen, Yu Wu, Ziqiang Zhang, Long Zhou, Shujie Liu, Zhuo Chen, Yanqing Liu, Huaming Wang, Jinyu Li, Lei He, Sheng Zhao, Furu Wei*<br>[[PDF](https://arxiv.org/abs/2301.02111)]<br>
+**Speak, read and prompt: High-fidelity text-to-speech with minimal supervision** [2023].<br>*Eugene Kharitonov, Damien Vincent, Zalán Borsos, Raphaël Marinier, Sertan Girgin, Olivier Pietquin, Matt Sharifi, Marco Tagliasacchi, Neil Zeghidour*<br>[[PDF](https://arxiv.org/abs/2302.03540)]<br>
+**Speechlmscore: Evaluating Speech Generation Using Speech Language Model** [2023].<br>*Soumi Maiti, Yifan Peng, Takaaki Saeki, Shinji Watanabe*<br>[[PDF](https://ieeexplore.ieee.org/abstract/document/10095710)]<br>
+**LM-VC: Zero-shot Voice Conversion via Speech Generation based on Language Models** [2023].<br>*Zhichao Wang, Yuanzhe Chen, Lei Xie, Qiao Tian, Yuping Wang*<br>[[PDF](https://arxiv.org/abs/2306.10521)]<br>
+**Assessing Phrase Break of ESL Speech with Pre-trained Language Models and Large Language Models** [2023].<br>*Zhiyi Wang, Shaoguang Mao, Wenshan Wu, Yan Xia, Yan Deng, Jonathan Tien*<br>[[PDF](https://arxiv.org/abs/2306.04980)]<br>
+<br>
 
 ## Speech Translation (ST)
 
