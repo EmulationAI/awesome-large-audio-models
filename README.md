@@ -62,9 +62,11 @@ A curated list of awesome large AI models in audio signal processing, inspired b
 
 ## Automatic Speech Recognition (ASR)
 
-
----
-
+**On decoder-only architecture for speech-to-text and large language model integration** [2023].<br>*Jian Wu, Yashesh Gaur, Zhuo Chen, Long Zhou, Yimeng Zhu, Tianrui Wang, Jinyu Li, Shujie Liu, Bo Ren, Linquan Liu, Yu Wu*<br>[[PDF](https://arxiv.org/abs/2307.03917)]<br>
+**Adapting Large Language Model with Speech for Fully Formatted End-to-End Speech Recognition** [2023].<br>*Shaoshi Ling, Yuxuan Hu, Shuangbei Qian, Guoli Ye, Yao Qian, Yifan Gong, Ed Lin, Michael Zeng*<br>[[PDF](https://arxiv.org/abs/2307.08234)]<br>
+**Semantic Segmentation with Bidirectional Language Models Improves Long-form ASR** [2023].<br>*W. Ronny Huang, Hao Zhang, Shankar Kumar, Shuo-yiin Chang, Tara N. Sainath*<br>[[PDF](https://arxiv.org/abs/2305.18419)]<br>
+**Prompting Large Language Models with Speech Recognition Abilities** [2023].<br>*Yassir Fathullah, Chunyang Wu, Egor Lakomkin, Junteng Jia, Yuan Shangguan, Ke Li, Jinxi Guo, Wenhan Xiong, Jay Mahadeokar, Ozlem Kalinli, Christian Fuegen, Mike Seltzer*<br>[[PDF](https://arxiv.org/abs/2307.11795)]<br>
+<br>
 ## Neural Speech Synthesis
 
 Content for the Neural Speech Synthesis section goes here.
