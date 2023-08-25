@@ -55,10 +55,15 @@ A curated list of awesome large AI models in audio signal processing, inspired b
 
 ## Popular Large Audio Models
 **Speechgpt: Empowering large language models with intrinsic cross-modal conversational abilities.** [2023].<br> *Zhang, Dong, Shimin Li, Xin Zhang, Jun Zhan, Pengyu Wang, Yaqian Zhou, and Xipeng Qiu.*<br>[[PDF](https://arxiv.org/pdf/2305.11000.pdf)]<br>
-
 **AudioPaLM: A Large Language Model That Can Speak and Listen.** [2023].<br> *Rubenstein, Paul K., Chulayuth Asawaroengchai, Duc Dung Nguyen, Ankur Bapna, Zalán Borsos, Félix de Chaumont Quitry, Peter Chen et al.*<br>[[PDF](https://arxiv.org/abs/2306.12925)]<br>
-
-
+**AudioLM: A Language Modeling Approach to Audio Generation** [2023].<br>*Zalán Borsos, Raphaël Marinier, Damien Vincent, Eugene Kharitonov, Olivier Pietquin, Matt Sharifi, Dominik Roblek, Olivier Teboul, David Grangier, Marco Tagliasacchi, Neil Zeghidour*<br>[[PDF](https://ieeexplore.ieee.org/abstract/document/10158503)]<br>
+**Listen, Think, and Understand** [2023].<br>*Yuan Gong, Hongyin Luo, Alexander H. Liu, Leonid Karlinsky, James Glass*<br>[[PDF](https://arxiv.org/abs/2305.10790)]<br>
+**VioLA: Unified Codec Language Models for Speech Recognition, Synthesis, and Translation** [2023].<br>*Tianrui Wang, Long Zhou, Ziqiang Zhang, Yu Wu, Shujie Liu, Yashesh Gaur, Zhuo Chen, Jinyu Li, Furu Wei*<br>[[PDF](https://arxiv.org/abs/2305.16107)]<br>
+**Audiogen: Textually guided audio generation** [2022].<br>*Felix Kreuk, Gabriel Synnaeve, Adam Polyak, Uriel Singer, Alexandre Défossez, Jade Copet, Devi Parikh, Yaniv Taigman, Yossi Adi*<br>[[PDF](https://arxiv.org/abs/2209.15352)]<br>
+**Simple and Controllable Music Generation** [2023].<br>*Jade Copet, Felix Kreuk, Itai Gat, Tal Remez, David Kant, Gabriel Synnaeve, Yossi Adi, Alexandre Défossez*<br>[[PDF](https://arxiv.org/abs/2306.05284)]<br>
+**MusicLM: Generating Music From Text** [2023].<br>*Andrea Agostinelli, Timo I. Denk, Zalán Borsos, Jesse Engel, Mauro Verzetti, Antoine Caillon, Qingqing Huang, Aren Jansen, Adam Roberts, Marco Tagliasacchi, Matt Sharifi, Neil Zeghidour, Christian Frank*<br>[[PDF](https://arxiv.org/abs/2301.11325)]<br>
+**SeamlessM4T—Massively Multilingual & Multimodal Machine Translation** [2023].<br>*Seamless Communication, Loic Barrault, Andy Chung, David Dale, Ning Dong (AI), Paul-Ambroise Duquenne, Hady Elsahar, Hongyu Gong, Kevin Heffernan, John Hoffman, Christopher Klaiber, Peng-Jen Chen, Daniel Licht, Jean Maillard, Alice Rakotoarison, Kaushik Ram Sadagopan, Guillaume Wenzek, Abinesh Ramakrishnan, Alexandre Mourachko, Amanda Kallet, Ann Lee, Anna Sun, Bapi Akula, Benjamin Peloquin, Bernie Huang, Bokai Yu, Brian Ellis, Can Balioglu, Carleigh Wood, Changhan Wang, Christophe Ropers, Cynthia Gao, Daniel Li (FAIR), Elahe Kalbassi, Ethan Ye, Gabriel Mejia Gonzalez, Hirofumi Inaguma, Holger Schwenk, Igor Tufanov, Ilia Kulikov, Janice Lam, Jeff Wang (PM - AI), Juan Pino, Justin Haaheim, Justine Kao, Prangthip Hasanti, Kevin Tran, Maha Elbayad, Marta R. Costa-jussa, Mohamed Ramadan, Naji El Hachem, Onur Çelebi, Paco Guzmán, Paden Tomasello, Pengwei Li, Pierre Andrews, Ruslan Mavlyutov, Russ Howes, Safiyyah Saleem, Skyler Wang, Somya Jain, Sravya Popuri, Tuan Tran, Vish Vogeti, Xutai Ma, Yilin Yang*<br>[[PDF](https://ai.meta.com/research/publications/seamless-m4t/)]<br>
+<br>
 
 ## Automatic Speech Recognition (ASR)
 
