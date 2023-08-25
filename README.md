@@ -53,11 +53,12 @@ A curated list of awesome large AI models in audio signal processing, inspired b
 **A comparative study on transformer vs rnn in speech applications** [2019].<br>*Shigeki Karita, Nanxin Chen, Tomoki Hayashi, Takaaki Hori, Hirofumi Inaguma, Ziyan Jiang, Masao Someki, Nelson Enrique Yalta Soplin, Ryuichi Yamamoto, Xiaofei Wang, Shinji Watanabe, Takenori Yoshimura, Wangyou Zhang*<br>[[PDF](https://ieeexplore.ieee.org/abstract/document/9003750)]<br>
 
 
+## Popular Large Audio Models
+** Speechgpt: Empowering large language models with intrinsic cross-modal conversational abilities. ** [2023].<br> *Zhang, Dong, Shimin Li, Xin Zhang, Jun Zhan, Pengyu Wang, Yaqian Zhou, and Xipeng Qiu.*<br>[[PDF](https://arxiv.org/pdf/2305.11000.pdf)]<br>
 
 
 ## Automatic Speech Recognition (ASR)
 
-Content for the ASR section goes here.
 
 ---
 
