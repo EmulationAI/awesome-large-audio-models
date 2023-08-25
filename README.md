@@ -56,6 +56,9 @@ A curated list of awesome large AI models in audio signal processing, inspired b
 ## Popular Large Audio Models
 **Speechgpt: Empowering large language models with intrinsic cross-modal conversational abilities.** [2023].<br> *Zhang, Dong, Shimin Li, Xin Zhang, Jun Zhan, Pengyu Wang, Yaqian Zhou, and Xipeng Qiu.*<br>[[PDF](https://arxiv.org/pdf/2305.11000.pdf)]<br>
 
+**AudioPaLM: A Large Language Model That Can Speak and Listen.** [2023].<br> *Rubenstein, Paul K., Chulayuth Asawaroengchai, Duc Dung Nguyen, Ankur Bapna, Zalán Borsos, Félix de Chaumont Quitry, Peter Chen et al.*<br>[[PDF](https://arxiv.org/abs/2306.12925)]<br>
+
+
 
 ## Automatic Speech Recognition (ASR)
 
