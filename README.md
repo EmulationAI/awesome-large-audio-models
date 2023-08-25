@@ -85,9 +85,10 @@ A curated list of awesome large AI models in audio signal processing, inspired b
 
 ## Other Speech Applications
 
-Content for the Other Speech Applications section goes here.
-
----
+**SpeechX: Neural Codec Language Model as a Versatile Speech Transformer** [2023].<br>*Xiaofei Wang, Manthan Thakker, Zhuo Chen, Naoyuki Kanda, Sefik Emre Eskimez, Sanyuan Chen, Min Tang, Shujie Liu, Jinyu Li, Takuya Yoshioka*<br>[[PDF](https://arxiv.org/abs/2308.06873)]<br>
+**Audiogpt: Understanding and generating speech, music, sound, and talking head** [2023].<br>*Rongjie Huang, Mingze Li, Dongchao Yang, Jiatong Shi, Xuankai Chang, Zhenhui Ye, Yuning Wu, Zhiqing Hong, Jiawei Huang, Jinglin Liu, Yi Ren, Zhou Zhao, Shinji Watanabe*<br>[[PDF](https://arxiv.org/abs/2304.12995)]<br>
+**Can Large Language Models Aid in Annotating Speech Emotional Data? Uncovering New Frontiers** [2023].<br>*Siddique Latif, Muhammad Usama, Mohammad Ibrahim Malik, Björn W. Schuller*<br>[[PDF](https://arxiv.org/abs/2307.06090)]<br>
+<br>
 
 ## Large Audio Models in Music
 
