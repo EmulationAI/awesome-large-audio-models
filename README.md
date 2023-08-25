@@ -79,9 +79,9 @@ A curated list of awesome large AI models in audio signal processing, inspired b
 
 ## Speech Translation (ST)
 
-Content for the Speech Translation section goes here.
-
----
+**SeamlessM4T—Massively Multilingual & Multimodal Machine Translation** [2023].<br>*Seamless Communication, Loic Barrault, Andy Chung, David Dale, Ning Dong (AI), Paul-Ambroise Duquenne, Hady Elsahar, Hongyu Gong, Kevin Heffernan, John Hoffman, Christopher Klaiber, Peng-Jen Chen, Daniel Licht, Jean Maillard, Alice Rakotoarison, Kaushik Ram Sadagopan, Guillaume Wenzek, Abinesh Ramakrishnan, Alexandre Mourachko, Amanda Kallet, Ann Lee, Anna Sun, Bapi Akula, Benjamin Peloquin, Bernie Huang, Bokai Yu, Brian Ellis, Can Balioglu, Carleigh Wood, Changhan Wang, Christophe Ropers, Cynthia Gao, Daniel Li (FAIR), Elahe Kalbassi, Ethan Ye, Gabriel Mejia Gonzalez, Hirofumi Inaguma, Holger Schwenk, Igor Tufanov, Ilia Kulikov, Janice Lam, Jeff Wang (PM - AI), Juan Pino, Justin Haaheim, Justine Kao, Prangthip Hasanti, Kevin Tran, Maha Elbayad, Marta R. Costa-jussa, Mohamed Ramadan, Naji El Hachem, Onur Çelebi, Paco Guzmán, Paden Tomasello, Pengwei Li, Pierre Andrews, Ruslan Mavlyutov, Russ Howes, Safiyyah Saleem, Skyler Wang, Somya Jain, Sravya Popuri, Tuan Tran, Vish Vogeti, Xutai Ma, Yilin Yang*<br>[[PDF](https://ai.meta.com/research/publications/seamless-m4t/)]<br>
+**PolyVoice: Language Models for Speech to Speech Translation** [2023].<br>*Qianqian Dong, Zhiying Huang, Qiao Tian, Chen Xu, Tom Ko, Yunlong Zhao, Siyuan Feng, Tang Li, Kexin Wang, Xuxin Cheng, Fengpeng Yue, Ye Bai, Xi Chen, Lu Lu, Zejun Ma, Yuping Wang, Mingxuan Wang, Yuxuan Wang*<br>[[PDF](https://arxiv.org/abs/2306.02982)]<br>
+<br>
 
 ## Other Speech Applications
 
@@ -91,7 +91,7 @@ Content for the Other Speech Applications section goes here.
 
 ## Large Audio Models in Music
 
-Content for the Large Audio Models in Music section goes here.
+Content for the Large Audio Models in the Music section goes here.
 
 
 
