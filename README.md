@@ -98,6 +98,7 @@ A curated list of awesome large AI models in audio signal processing, inspired b
 
 ## Large Audio Models in Music
 
+**MusicGen: Simple and Controllable Music Generation** [2023].<br>*Jade Copet, Felix Kreuk, Itai Gat, Tal Remez, David Kant, Gabriel Synnaeve, Yossi Adi, Alexandre Défossez*<br>[[PDF](https://arxiv.org/abs/2306.05284)]<br>
 **JEN-1: Text-Guided Universal Music Generation with Omnidirectional Diffusion Models** [2023].<br>*Peike Li, Boyu Chen, Yao Yao, Yikai Wang, Allen Wang, Alex Wang*<br>[[PDF](https://arxiv.org/abs/2308.04729)]<br>
 **VampNet: Music Generation via Masked Acoustic Token Modeling** [2023].<br>*Hugo Flores Garcia, Prem Seetharaman, Rithesh Kumar, Bryan Pardo*<br>[[PDF](https://arxiv.org/abs/2307.04686)]<br>
 **Text-to-Audio Generation using Instruction-Tuned LLM and Latent Diffusion Model** [2023].<br>*Deepanway Ghosal, Navonil Majumder, Ambuj Mehrish, Soujanya Poria*<br>[[PDF](https://arxiv.org/abs/2304.13731)]<br>
