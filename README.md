@@ -132,8 +132,8 @@ A curated list of awesome large AI models in audio signal processing, inspired b
 | CoVoST | CoVoST: A Large-Scale Multilingual Speech-To-Text Translation Corpus | 2280 Hours | [[Download Link](https://github.com/facebookresearch/covost)] |
 | CVSS | CVSS: A Massively Multilingual Speech-to-Speech Translation Corpus | 3909 Hours | [[Download Link](https://github.com/google-research-datasets/cvss)] |
 | EMIME | The EMIME bilingual database | - | [[Download Link](https://www.emime.org/participate/emime-bilingual-database.html)] |
-"| Audiocaps | Audiocaps: Generating captions for audios in the wild | 46000 Audios | [[Download Link](https://github.com/cdjkim/audiocaps)] |"
-"| Clotho | Clotho: An audio captioning dataset | 4981 audios 24905 captions | [[Download Link](https://zenodo.org/record/3490684)] |"
+| Audiocaps | Audiocaps: Generating captions for audios in the wild | 46000 Audios | [[Download Link](https://github.com/cdjkim/audiocaps)] |
+| Clotho | Clotho: An audio captioning dataset | 4981 audios 24905 captions | [[Download Link](https://zenodo.org/record/3490684)] |
 | Audio set | Audio set: An ontology and human-labeled dataset for audio events | 5.8k hours | [[Download Link](g.co/audioset)] |
 | Emopia | Emopia: A multi-modal pop piano dataset for emotion recognition and emotion-based music generation | 387 piano solo sounds  | [[Download Link](https://zenodo.org/record/5090631)] |
 | MetaMIDI | Building the MetaMIDI Dataset: Linking Symbolic and Audio Musical Data | 436631 MIDI files | [[Download Link](#)] |
