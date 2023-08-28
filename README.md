@@ -137,9 +137,9 @@ A curated list of awesome large AI models in audio signal processing, inspired b
 | Clotho | Clotho: An audio captioning dataset | 4981 audios 24905 captions | [Download](https://zenodo.org/record/3490684) |
 | Audio set | Audio set: An ontology and human-labeled dataset for audio events | 5.8k hours | [Download](g.co/audioset) |
 | Emopia | Emopia: A multi-modal pop piano dataset for emotion recognition and emotion-based music generation | 387 piano solo sounds  | [Download](https://zenodo.org/record/5090631) |
-| MetaMIDI | Building the MetaMIDI Dataset: Linking Symbolic and Audio Musical Data | 436631 MIDI files | [Download Link](#) |
+| MetaMIDI | Building the MetaMIDI Dataset: Linking Symbolic and Audio Musical Data | 436631 MIDI files | [Download](#) |
 | DALI2 | Creating DALI, a Large Dataset of Synchronized Audio, Lyrics, and Notes | 7756 Songs | [Download](https://github.com/gabolsgabs/DALI) |
-| MillionMIDI |  Million MIDI Dataset (MMD) | 100k Songs | [Download Link](#) |
+| MillionMIDI |  Million MIDI Dataset (MMD) | 100k Songs | [Download](#) |
 | Vggsound | Vggsound: A Large-Scale Audio-Visual Dataset | 200k Videos | [Download](https://www.robots.ox.ac.uk/~vgg/data/vggsound/) |
 | FSD50K | FSD50K: An Open Dataset of Human-Labeled Sound Events | 51197 Sound Clips | [Download](https://zenodo.org/record/4060432) |
 | Symphony | Symphony generation with permutation invariant language model | 46359 MIDI files | [Download](https://symphonynet.github.io/) |
