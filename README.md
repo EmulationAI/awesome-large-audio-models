@@ -28,6 +28,7 @@ A curated list of awesome large AI models in audio signal processing, inspired b
 - [Speech Translation (ST)](#speech-translation-st)
 - [Other Speech Applications](#other-speech-applications)
 - [Large Audio Models in Music](#large-audio-models-in-music)
+- [Audio Datasets](#audio-datasets)
 
 # Survey Papers
 
