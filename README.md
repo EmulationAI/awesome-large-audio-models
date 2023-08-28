@@ -138,7 +138,7 @@ A curated list of awesome large AI models in audio signal processing, inspired b
 | Emopia | Emopia: A multi-modal pop piano dataset for emotion recognition and emotion-based music generation | 387 piano solo sounds  | [[Download Link](https://zenodo.org/record/5090631)] |
 | MetaMIDI | Building the MetaMIDI Dataset: Linking Symbolic and Audio Musical Data | 436631 MIDI files | [[Download Link](#)] |
 | DALI2 | Creating DALI, a Large Dataset of Synchronized Audio, Lyrics, and Notes | 7756 Songs | [[Download Link](https://github.com/gabolsgabs/DALI)] |
-| MillionMIDI |  | 100k Songs | [[Download Link](https)] |
+| MillionMIDI |  Million MIDI Dataset (MMD) | 100k Songs | [[Download Link](https)] |
 | Vggsound | Vggsound: A Large-Scale Audio-Visual Dataset | 200k Videos | [[Download Link](https://www.robots.ox.ac.uk/~vgg/data/vggsound/)] |
 | FSD50K | FSD50K: An Open Dataset of Human-Labeled Sound Events | 51197 Sound Clips | [[Download Link](https://zenodo.org/record/4060432)] |
 | Symphony | Symphony generation with permutation invariant language model | 46359 MIDI files | [[Download Link](https://symphonynet.github.io/)] |
