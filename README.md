@@ -124,24 +124,24 @@ A curated list of awesome large AI models in audio signal processing, inspired b
 ## Audio Datasets
 | Title | Full Name | Size | Link |
 | -------- | -------- | -------- | -------- |
-| CommonVoice 11 | CommonVoice: A Massively Multilingual Speech Corpus | 58250 Voices of 2508 hours | [[Download](https://voice.mozilla.org/en/datasets)] |
-| Libri-Light | Libri-Light: A Benchmark for ASR with Limited or No Supervision | 60000 Hours | [[Download](https://ai.facebook.com/tools/libri-light)] |
-| Wenetspeech | Wenetspeech: A 10000+ hours multi-domain mandarin corpus for speech recognition | 10000 Hours  | [[Download](https://github.com/wenet-e2e/WenetSpeech)] |
-| Gigaspeech | Gigaspeech: An evolving, multi-domain asr corpus with 10,000 hours of transcribed audio | 50000 Hours | [[Download](https://github.com/SpeechColab/GigaSpeech)] |
-| MuST-C | MuST-C: a Multilingual Speech Translation Corpus | 3600 Hours | [[Download](https://aclanthology.org/N19-1202.pdf)] |
-| VoxPopuli | VoxPopuli: A Large-Scale Multilingual Speech Corpus for Representation Learning, Semi-Supervised Learning and Interpretation | 400k Hours | [[Download](https://github.com/facebookresearch/voxpopuli)] |
-| CoVoST | CoVoST: A Large-Scale Multilingual Speech-To-Text Translation Corpus | 2280 Hours | [[Download](https://github.com/facebookresearch/covost)] |
-| CVSS | CVSS: A Massively Multilingual Speech-to-Speech Translation Corpus | 3909 Hours | [[Download](https://github.com/google-research-datasets/cvss)] |
-| EMIME | The EMIME bilingual database | - | [[Download](https://www.emime.org/participate/emime-bilingual-database.html)] |
-| Audiocaps | Audiocaps: Generating captions for audios in the wild | 46000 Audios | [[Download](https://github.com/cdjkim/audiocaps)] |
-| Clotho | Clotho: An audio captioning dataset | 4981 audios 24905 captions | [[Download](https://zenodo.org/record/3490684)] |
-| Audio set | Audio set: An ontology and human-labeled dataset for audio events | 5.8k hours | [[Download](g.co/audioset)] |
-| Emopia | Emopia: A multi-modal pop piano dataset for emotion recognition and emotion-based music generation | 387 piano solo sounds  | [[Download](https://zenodo.org/record/5090631)] |
-| MetaMIDI | Building the MetaMIDI Dataset: Linking Symbolic and Audio Musical Data | 436631 MIDI files | [[Download Link](#)] |
-| DALI2 | Creating DALI, a Large Dataset of Synchronized Audio, Lyrics, and Notes | 7756 Songs | [[Download](https://github.com/gabolsgabs/DALI)] |
-| MillionMIDI |  Million MIDI Dataset (MMD) | 100k Songs | [[Download Link](#)] |
-| Vggsound | Vggsound: A Large-Scale Audio-Visual Dataset | 200k Videos | [[Download](https://www.robots.ox.ac.uk/~vgg/data/vggsound/)] |
-| FSD50K | FSD50K: An Open Dataset of Human-Labeled Sound Events | 51197 Sound Clips | [[Download](https://zenodo.org/record/4060432)] |
-| Symphony | Symphony generation with permutation invariant language model | 46359 MIDI files | [[Download](https://symphonynet.github.io/)] |
-| MusicCaps | MusicLM: Generating Music From Text | 5521 music-text pairs | [[Download](https://www.kaggle.com/datasets/googleai/musiccaps)] |
-| Jamendo | The MTG-Jamendo dataset for automatic music tagging | 55525 Tracks | [[Download](https://github.com/MTG/mtg-jamendo-dataset)] |
+| CommonVoice 11 | CommonVoice: A Massively Multilingual Speech Corpus | 58250 Voices of 2508 hours | [Download](https://voice.mozilla.org/en/datasets) |
+| Libri-Light | Libri-Light: A Benchmark for ASR with Limited or No Supervision | 60000 Hours | [Download](https://ai.facebook.com/tools/libri-light) |
+| Wenetspeech | Wenetspeech: A 10000+ hours multi-domain mandarin corpus for speech recognition | 10000 Hours  | [Download](https://github.com/wenet-e2e/WenetSpeech) |
+| Gigaspeech | Gigaspeech: An evolving, multi-domain asr corpus with 10,000 hours of transcribed audio | 50000 Hours | [Download](https://github.com/SpeechColab/GigaSpeech) |
+| MuST-C | MuST-C: a Multilingual Speech Translation Corpus | 3600 Hours | [Download](https://aclanthology.org/N19-1202.pdf) |
+| VoxPopuli | VoxPopuli: A Large-Scale Multilingual Speech Corpus for Representation Learning, Semi-Supervised Learning and Interpretation | 400k Hours | [Download](https://github.com/facebookresearch/voxpopuli) |
+| CoVoST | CoVoST: A Large-Scale Multilingual Speech-To-Text Translation Corpus | 2280 Hours | [Download](https://github.com/facebookresearch/covost) |
+| CVSS | CVSS: A Massively Multilingual Speech-to-Speech Translation Corpus | 3909 Hours | [Download](https://github.com/google-research-datasets/cvss) |
+| EMIME | The EMIME bilingual database | - | [Download](https://www.emime.org/participate/emime-bilingual-database.html) |
+| Audiocaps | Audiocaps: Generating captions for audios in the wild | 46000 Audios | [Download](https://github.com/cdjkim/audiocaps) |
+| Clotho | Clotho: An audio captioning dataset | 4981 audios 24905 captions | [Download](https://zenodo.org/record/3490684) |
+| Audio set | Audio set: An ontology and human-labeled dataset for audio events | 5.8k hours | [Download](g.co/audioset) |
+| Emopia | Emopia: A multi-modal pop piano dataset for emotion recognition and emotion-based music generation | 387 piano solo sounds  | [Download](https://zenodo.org/record/5090631) |
+| MetaMIDI | Building the MetaMIDI Dataset: Linking Symbolic and Audio Musical Data | 436631 MIDI files | [Download Link](#) |
+| DALI2 | Creating DALI, a Large Dataset of Synchronized Audio, Lyrics, and Notes | 7756 Songs | [Download](https://github.com/gabolsgabs/DALI) |
+| MillionMIDI |  Million MIDI Dataset (MMD) | 100k Songs | [Download Link](#) |
+| Vggsound | Vggsound: A Large-Scale Audio-Visual Dataset | 200k Videos | [Download](https://www.robots.ox.ac.uk/~vgg/data/vggsound/) |
+| FSD50K | FSD50K: An Open Dataset of Human-Labeled Sound Events | 51197 Sound Clips | [Download](https://zenodo.org/record/4060432) |
+| Symphony | Symphony generation with permutation invariant language model | 46359 MIDI files | [Download](https://symphonynet.github.io/) |
+| MusicCaps | MusicLM: Generating Music From Text | 5521 music-text pairs | [Download](https://www.kaggle.com/datasets/googleai/musiccaps) |
+| Jamendo | The MTG-Jamendo dataset for automatic music tagging | 55525 Tracks | [Download](https://github.com/MTG/mtg-jamendo-dataset) |
