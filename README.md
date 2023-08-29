@@ -119,7 +119,7 @@ A curated list of awesome large AI models in audio signal processing, inspired b
 **MuseCoco: Generating Symbolic Music from Text** [2023].<br>*Peiling Lu, Xin Xu, Chenfei Kang, Botao Yu, Chengyi Xing, Xu Tan, Jiang Bian*<br>[[PDF](https://arxiv.org/abs/2306.00110)]<br>
 **LaunchpadGPT: Language Model as Music Visualization Designer on Launchpad** [2023].<br>*Siting Xu, Yunlong Tang, Feng Zheng*<br>[[PDF](https://arxiv.org/abs/2307.04827)]<br>
 <br>
-**Music Understanding LLaMA: Advancing Text-to-Music Generation with Question Answering and Captioning** [2023].<br>*Shansong Liu, Atin Sakkeer Hussain, Chenshuo Sun, Ying Shan*<br>[[PDF](https://arxiv.org/abs/2308.11276)][[Github](https://github.com/ChristophReich1996/Cell-DETR)]<br>
+**Music Understanding LLaMA: Advancing Text-to-Music Generation with Question Answering and Captioning** [2023].<br>*Shansong Liu, Atin Sakkeer Hussain, Chenshuo Sun, Ying Shan*<br>[[PDF](https://arxiv.org/abs/2308.11276)][[Github](https://github.com/crypto-code/MU-LLaMA)]<br>
 <br>
 
 
