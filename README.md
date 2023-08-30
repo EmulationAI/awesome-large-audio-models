@@ -14,7 +14,7 @@ Authors: [Siddique Latif](https://scholar.google.com/citations?user=Scq5ADcAAAAJ
 
 
 <hr />
-
+![](LLMs_AudioAI.jpg)
 <hr />
 
 # <p align=center>` Awesome Large Language Models in Audio AI`</p>
