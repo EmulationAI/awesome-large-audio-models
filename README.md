@@ -155,12 +155,10 @@ A curated list of awesome large AI models in audio signal processing, inspired b
 If you find the listing and survey useful for your work, please cite the paper:
 
 ```
-@misc{shamshad2022transformers,
-      title={Sparks of Large Audio Models: A Survey and Outlook}, 
-      author={Latif Siddique, and Shoukat Moazzam, and Shamshad Fahad and  Cuayáhuitl Heriberto, and W. Schuller Björn}
-      year={2023},
-      eprint={2308.12792},
-      archivePrefix={arXiv},
-      primaryClass={cs.SD}
+@article{latif2023sparks,
+  title={Sparks of Large Audio Models: A Survey and Outlook},
+  author={Latif, Siddique and Shoukat, Moazzam and Shamshad, Fahad and Usama, Muhammad and Cuay{\'a}huitl, Heriberto and Schuller, Bj{\"o}rn W},
+  journal={arXiv preprint arXiv:2308.12792},
+  year={2023}
 }
 ```
