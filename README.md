@@ -148,3 +148,19 @@ A curated list of awesome large AI models in audio signal processing, inspired b
 | Symphony | Symphony generation with permutation invariant language model | 46359 MIDI files | [Download](https://symphonynet.github.io/) |
 | MusicCaps | MusicLM: Generating Music From Text | 5521 music-text pairs | [Download](https://www.kaggle.com/datasets/googleai/musiccaps) |
 | Jamendo | The MTG-Jamendo dataset for automatic music tagging | 55525 Tracks | [Download](https://github.com/MTG/mtg-jamendo-dataset) |
+
+
+# Citation
+
+If you find the listing and survey useful for your work, please cite the paper:
+
+```
+@misc{shamshad2022transformers,
+      title={Sparks of Large Audio Models: A Survey and Outlook}, 
+      author={Latif Siddique, and Shoukat Moazzam, and Shamshad Fahad and  Cuayáhuitl Heriberto, and W. Schuller Björn}
+      year={2023},
+      eprint={2308.12792},
+      archivePrefix={arXiv},
+      primaryClass={cs.SD}
+}
+```
