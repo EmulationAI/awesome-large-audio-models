@@ -81,6 +81,7 @@ A curated list of awesome large AI models in audio signal processing, inspired b
 **Adapting Large Language Model with Speech for Fully Formatted End-to-End Speech Recognition** [2023].<br>*Shaoshi Ling, Yuxuan Hu, Shuangbei Qian, Guoli Ye, Yao Qian, Yifan Gong, Ed Lin, Michael Zeng*<br>[[PDF](https://arxiv.org/abs/2307.08234)]<br>
 **Semantic Segmentation with Bidirectional Language Models Improves Long-form ASR** [2023].<br>*W. Ronny Huang, Hao Zhang, Shankar Kumar, Shuo-yiin Chang, Tara N. Sainath*<br>[[PDF](https://arxiv.org/abs/2305.18419)]<br>
 **Prompting Large Language Models with Speech Recognition Abilities** [2023].<br>*Yassir Fathullah, Chunyang Wu, Egor Lakomkin, Junteng Jia, Yuan Shangguan, Ke Li, Jinxi Guo, Wenhan Xiong, Jay Mahadeokar, Ozlem Kalinli, Christian Fuegen, Mike Seltzer*<br>[[PDF](https://arxiv.org/abs/2307.11795)]<br>
+**Connecting Speech Encoder and Large Language Model for ASR** [2023].<br>*Wenyi Yu, Changli Tang, Guangzhi Sun, Xiaozhao Chen, Tian Tan, Wei Li, Lu Lu, Zejun Ma, Chao Zhang*<br>[[PDF](https://arxiv.org/abs/2309.13963)]<br>
 **SALMONN: Towards Generic Hearing Abilities for Large Language Models** [2023].<br>*Changli Tang, Wenyi Yu, Guangzhi Sun, Xiaozhao Chen, Tian Tan, Wei Li, Lu Lu, Zejun Ma, Chao Zhang*<br>[[PDF](https://arxiv.org/abs/2310.13289)][[Github](https://github.com/bytedance/SALMONN)]<br>
 <br>
 ## Neural Speech Synthesis
