@@ -128,6 +128,7 @@ A curated list of awesome large AI models in audio signal processing, inspired b
 **LaunchpadGPT: Language Model as Music Visualization Designer on Launchpad** [2023].<br>*Siting Xu, Yunlong Tang, Feng Zheng*<br>[[PDF](https://arxiv.org/abs/2307.04827)]<br>
 **Music Understanding LLaMA: Advancing Text-to-Music Generation with Question Answering and Captioning** [2023].<br>*Shansong Liu, Atin Sakkeer Hussain, Chenshuo Sun, Ying Shan*<br>[[PDF](https://arxiv.org/abs/2308.11276)][[Github](https://github.com/crypto-code/MU-LLaMA)]<br>
 **SALMONN: Towards Generic Hearing Abilities for Large Language Models** [2023].<br>*Changli Tang, Wenyi Yu, Guangzhi Sun, Xiaozhao Chen, Tian Tan, Wei Li, Lu Lu, Zejun Ma, Chao Zhang*<br>[[PDF](https://arxiv.org/abs/2310.13289)][[Github](https://github.com/bytedance/SALMONN)]<br>
+**Mustango: Toward Controllable Text-to-Music Generation** [2023].<br>*Jan Melechovsky, Zixun Guo, Deepanway Ghosal, Navonil Majumder, Dorien Herremans, Soujanya Poria*<br>[[PDF](https://arxiv.org/pdf/2311.08355.pdf)][[Github](https://github.com/AMAAI-Lab/mustango)]<br>
 <br>
 
 
@@ -155,6 +156,7 @@ A curated list of awesome large AI models in audio signal processing, inspired b
 | Symphony | Symphony generation with permutation invariant language model | 46359 MIDI files | [Download](https://symphonynet.github.io/) |
 | MusicCaps | MusicLM: Generating Music From Text | 5521 music-text pairs | [Download](https://www.kaggle.com/datasets/googleai/musiccaps) |
 | Jamendo | The MTG-Jamendo dataset for automatic music tagging | 55525 Tracks | [Download](https://github.com/MTG/mtg-jamendo-dataset) |
+| MusicBench | Mustango: Toward Controllable Text-to-Music Generation | 53168 Tracks | [Download](https://huggingface.co/datasets/amaai-lab/MusicBench) |
 
 
 # Citation
