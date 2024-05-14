@@ -4,7 +4,7 @@
 
 ![](LLMs_AudioAI.jpg)
 
-# <p align=center> This repo supplements our survey: [Sparks of Large Audio Models: A Survey and Outlook](https://arxiv.org/abs/2308.12792).
+# <p align=center> This repo supplements our survey paper: [Sparks of Large Audio Models: A Survey and Outlook](https://arxiv.org/abs/2308.12792).
 
 Authors: [Siddique Latif](https://scholar.google.com/citations?user=Scq5ADcAAAAJ), [Moazzam Shoukat](https://scholar.google.com/citations?user=uU550yYAAAAJ&hl=en), [Fahad Shamshad](https://scholar.google.com.pk/citations?user=d7QL4wkAAAAJ&hl=en), [Muhammad Usama](https://scholar.google.com/citations?user=unGWVYMAAAAJ&hl=en), [Yi Ren](https://scholar.google.com/citations?user=4FA6C0AAAAAJ&hl=zh-CN), [Heriberto Cuayahuitl](https://scholar.google.com/citations?user=zDlQNDgAAAAJ&hl=en), [Xulong Zhang](https://scholar.google.com/citations?hl=en&user=1XKLPoAAAAAJ), [Roberto Togneri](https://scholar.google.com.au/citations?user=uPELUScAAAAJ&hl=en), [Wenwu Wang](https://scholar.google.co.uk/citations?user=JQFnV5IAAAAJ&hl=en), [Bjorn  Schuller](https://scholar.google.com/citations?user=TxKNCSoAAAAJ&hl=en).
 </p>
