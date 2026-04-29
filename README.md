@@ -129,6 +129,7 @@ A curated list of awesome large AI models in audio signal processing, inspired b
 **Music Understanding LLaMA: Advancing Text-to-Music Generation with Question Answering and Captioning** [2023].<br>*Shansong Liu, Atin Sakkeer Hussain, Chenshuo Sun, Ying Shan*<br>[[PDF](https://arxiv.org/abs/2308.11276)][[Github](https://github.com/crypto-code/MU-LLaMA)]<br>
 **SALMONN: Towards Generic Hearing Abilities for Large Language Models** [2023].<br>*Changli Tang, Wenyi Yu, Guangzhi Sun, Xiaozhao Chen, Tian Tan, Wei Li, Lu Lu, Zejun Ma, Chao Zhang*<br>[[PDF](https://arxiv.org/abs/2310.13289)][[Github](https://github.com/bytedance/SALMONN)]<br>
 **Mustango: Toward Controllable Text-to-Music Generation** [2023].<br>*Jan Melechovsky, Zixun Guo, Deepanway Ghosal, Navonil Majumder, Dorien Herremans, Soujanya Poria*<br>[[PDF](https://arxiv.org/pdf/2311.08355.pdf)][[Github](https://github.com/AMAAI-Lab/mustango)]<br>
+- [voicetoinstrument.com](https://voicetoinstrument.com) - Convert voice to instrumental tracks using AI<br>
 <br>
 
 
