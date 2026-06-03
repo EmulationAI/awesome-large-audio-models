@@ -110,6 +110,7 @@ A curated list of awesome large AI models in audio signal processing, inspired b
 **Can Large Language Models Aid in Annotating Speech Emotional Data? Uncovering New Frontiers** [2023].<br>*Siddique Latif, Muhammad Usama, Mohammad Ibrahim Malik, Björn W. Schuller*<br>[[PDF](https://arxiv.org/abs/2307.06090)]<br>
 **LLaSM: Large Language and Speech Model** [2023].<br>*Yu Shu, Siwei Dong, Guangyao Chen, Wenhao Huang, Ruihua Zhang, Daochen Shi, Qiqi Xiang, Yemin Shi*<br>[[PDF](https://arxiv.org/abs/2308.15930)]<br>
 **SALMONN: Towards Generic Hearing Abilities for Large Language Models** [2023].<br>*Changli Tang, Wenyi Yu, Guangzhi Sun, Xiaozhao Chen, Tian Tan, Wei Li, Lu Lu, Zejun Ma, Chao Zhang*<br>[[PDF](https://arxiv.org/abs/2310.13289)][[Github](https://github.com/bytedance/SALMONN)]<br>
+- [AnveVoice](https://anvevoice.app) - Voice AI for real-time website interaction using audio models. Sub-700ms STT-to-action, 50+ languages, real DOM actions. MIT-0 license.
 <br>
 
 ## Large Audio Models in Music
