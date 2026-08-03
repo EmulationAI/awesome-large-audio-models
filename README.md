@@ -176,3 +176,9 @@ If you find the listing and survey useful for your work, please cite the paper:
   year={2023}
 }
 ```
+
+
+## AI Model Catalogs
+
+- [AI Models Catalog](https://github.com/i-need-token/ai-models) - Structured catalog of 4,587+ AI models across 95 providers. Includes 118 audio input models and 34 audio output models with pricing and capabilities. Interactive catalog: https://i-need-token.github.io/ai-models/
+
