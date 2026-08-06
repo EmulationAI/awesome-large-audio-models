@@ -27,6 +27,7 @@ A curated list of awesome large AI models in audio signal processing, inspired b
 - [Neural Speech Synthesis](#neural-speech-synthesis)
 - [Speech Translation (ST)](#speech-translation-st)
 - [Other Speech Applications](#other-speech-applications)
+- [Audio Reasoning and Reinforcement Learning](#audio-reasoning-and-reinforcement-learning)
 - [Large Audio Models in Music](#large-audio-models-in-music)
 - [Audio Datasets](#audio-datasets)
 
@@ -114,6 +115,17 @@ A curated list of awesome large AI models in audio signal processing, inspired b
 **SALMONN: Towards Generic Hearing Abilities for Large Language Models** [2023].<br>*Changli Tang, Wenyi Yu, Guangzhi Sun, Xiaozhao Chen, Tian Tan, Wei Li, Lu Lu, Zejun Ma, Chao Zhang*<br>[[PDF](https://arxiv.org/abs/2310.13289)][[Github](https://github.com/bytedance/SALMONN)]<br>
 - [StoryRoute](https://storyroute.netlify.app) - GPS-triggered LLM story generation synthesized via a large TTS model into real-time audio narration as users walk through any city<br>
 - [AnveVoice](https://anvevoice.app) - Voice AI for real-time website interaction using audio models. Sub-700ms STT-to-action, 50+ languages, real DOM actions. MIT-0 license.
+<br>
+
+## Audio Reasoning and Reinforcement Learning
+
+**Reinforcement Learning with Evolving Rubrics as Rewards for Audio Reasoning** [2026].<br>*Fangxu Yu, Tao Feng, Dehai Min, Zinan Lin, Weijia Xu, Michael Xu, Philip S. Yu, Ge Liu, Tianyi Zhou*<br>[[PDF](https://arxiv.org/abs/2608.02831)][[Project](https://audiorubrics.github.io)]<br>
+**SoundMind: RL-Incentivized Logic Reasoning for Audio-Language Models** [2025].<br>*Xingjian Diao, Chunhui Zhang, Keyi Kong, Weiyi Wu, Chiyu Ma, Zhongyu Ouyang, Peijun Qing, Soroush Vosoughi, Jiang Gui*<br>[[PDF](https://arxiv.org/abs/2506.12935)][[Github](https://github.com/xid32/SoundMind)]<br>
+**Omni-R1: Do You Really Need Audio to Fine-Tune Your Audio LLM?** [2025].<br>*Andrew Rouditchenko, Saurabhchand Bhati, Edson Araujo, Samuel Thomas, Hilde Kuehne, Rogerio Feris, James Glass*<br>[[PDF](https://arxiv.org/abs/2505.09439)]<br>
+**EchoInk-R1: Exploring Audio-Visual Reasoning in Multimodal LLMs via Reinforcement Learning** [2025].<br>*Zhenghao Xing, Xiaowei Hu, Chi-Wing Fu, Wenhai Wang, Jifeng Dai, Pheng-Ann Heng*<br>[[PDF](https://arxiv.org/abs/2505.04623)][[Github](https://github.com/HarryHsing/EchoInk)]<br>
+**SARI: Structured Audio Reasoning via Curriculum-Guided Reinforcement Learning** [2025].<br>*Cheng Wen, Tingwei Guo, Shuaijiang Zhao, Wei Zou, Xiangang Li*<br>[[PDF](https://arxiv.org/abs/2504.15900)]<br>
+**Reinforcement Learning Outperforms Supervised Fine-Tuning: A Case Study on Audio Question Answering** [2025].<br>*Gang Li, Jizhong Liu, Heinrich Dinkel, Yadong Niu, Junbo Zhang, Jian Luan*<br>[[PDF](https://arxiv.org/abs/2503.11197)][[Github](https://github.com/xiaomi-research/r1-aqa)]<br>
+**Audio-Reasoner: Improving Reasoning Capability in Large Audio Language Models** [2025].<br>*Zhifei Xie, Mingbao Lin, Zihang Liu, Pengcheng Wu, Shuicheng Yan, Chunyan Miao*<br>[[PDF](https://arxiv.org/abs/2503.02318)][[Github](https://github.com/xzf-thu/Audio-Reasoner)]<br>
 <br>
 
 ## Large Audio Models in Music
