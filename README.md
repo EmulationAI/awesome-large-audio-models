@@ -115,6 +115,7 @@ A curated list of awesome large AI models in audio signal processing, inspired b
 **SALMONN: Towards Generic Hearing Abilities for Large Language Models** [2023].<br>*Changli Tang, Wenyi Yu, Guangzhi Sun, Xiaozhao Chen, Tian Tan, Wei Li, Lu Lu, Zejun Ma, Chao Zhang*<br>[[PDF](https://arxiv.org/abs/2310.13289)][[Github](https://github.com/bytedance/SALMONN)]<br>
 - [StoryRoute](https://storyroute.netlify.app) - GPS-triggered LLM story generation synthesized via a large TTS model into real-time audio narration as users walk through any city<br>
 - [AnveVoice](https://anvevoice.app) - Voice AI for real-time website interaction using audio models. Sub-700ms STT-to-action, 50+ languages, real DOM actions. MIT-0 license.
+- [CallRec](https://github.com/RevolutionLA/call-recording-archive) - Fully offline archive for phone-call recordings: SenseVoice ASR + CAM++ voiceprint diarization + local LLM summaries + knowledge graph.<br>
 <br>
 
 ## Audio Reasoning and Reinforcement Learning
