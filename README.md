@@ -107,6 +107,7 @@ A curated list of awesome large AI models in audio signal processing, inspired b
 
 ## Other Speech Applications
 
+**Batched Speech Decisions Without Decoding: Single-Token Supervision Lets a Frozen LLM Hear Beyond the Transcript** [2026].<br>*Jie Jin, Ziyin Ma, Min Yin, Jinyu Chen, Haigang Song, Zhikun Pang, Xiaowen Zhang*<br>[[PDF](https://arxiv.org/abs/2610.02638)][[Github](https://github.com/adventists-ai/duplexjev)]<br>
 **SpeechX: Neural Codec Language Model as a Versatile Speech Transformer** [2023].<br>*Xiaofei Wang, Manthan Thakker, Zhuo Chen, Naoyuki Kanda, Sefik Emre Eskimez, Sanyuan Chen, Min Tang, Shujie Liu, Jinyu Li, Takuya Yoshioka*<br>[[PDF](https://arxiv.org/abs/2308.06873)]<br>
 **Audiogpt: Understanding and generating speech, music, sound, and talking head** [2023].<br>*Rongjie Huang, Mingze Li, Dongchao Yang, Jiatong Shi, Xuankai Chang, Zhenhui Ye, Yuning Wu, Zhiqing Hong, Jiawei Huang, Jinglin Liu, Yi Ren, Zhou Zhao, Shinji Watanabe*<br>[[PDF](https://arxiv.org/abs/2304.12995)]<br>
 **X-LLM: Bootstrapping Advanced Large Language Models by Treating Multi-Modalities as Foreign Languages** [2023].<br>*Feilong Chen, Minglun Han, Haozhi Zhao, Qingyang Zhang, Jing Shi, Shuang Xu, Bo Xu*<br>[[PDF](https://arxiv.org/abs/2305.04160)][[Github](https://github.com/phellonchen/X-LLM)]<br>
