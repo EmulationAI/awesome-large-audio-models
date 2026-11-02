@@ -175,6 +175,7 @@ A curated list of awesome large AI models in audio signal processing, inspired b
 | Jamendo | The MTG-Jamendo dataset for automatic music tagging | 55525 Tracks | [Download](https://github.com/MTG/mtg-jamendo-dataset) |
 | JamendoMaxCaps | JamendoMaxCaps: A Large-Scale Music-caption Dataset with Imputed Metadata | 25356 Hours, 362238 Songs | [Download](https://huggingface.co/datasets/amaai-lab/JamendoMaxCaps) |
 | MusicBench | Mustango: Toward Controllable Text-to-Music Generation | 53168 Tracks | [Download](https://huggingface.co/datasets/amaai-lab/MusicBench) |
+| XIM Audio | XIM Audio catalogue: licensed music production data for AI training (stems printed from the producer's DAW session, DAW sessions, MIDI; datasheet DOI 10.5281/zenodo.23883162) | 3923 songs as 98246 stems, 9466 DAW sessions, 287350 MIDI files | [Licensed on request](https://ximaudio.com/data) |
 
 
 # Citation
